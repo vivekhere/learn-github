@@ -1,3 +1,4 @@
 # learn-github
 Learn GitHub.\
-A new line of code.
+A new line of code.\
+Another line of code.
